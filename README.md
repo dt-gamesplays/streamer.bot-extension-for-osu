@@ -1,6 +1,6 @@
 # Streamer.bot extension for osu!
 This extension integrates commands that you can use during your osu live streaming. Some commands are useful for the viewer to get extra real-time information about your osu instance, while others are useful for not having to leave Twitch to get information from the osu site.
-To learn what the commands are for this extension go to the bottom of the Commands Description and Usage section
+To learn what the commands are for this extension go to the bottom of the [Commands Description and Usage](https://github.com/dt-gamesplays/streamer.bot-extension-for-osu/tree/main?tab=readme-ov-file#commands-description-and-usage) section.
 
 ## Configuration of Streamer.bot
 1. Download [Streamer.bot](https://streamer.bot/)
