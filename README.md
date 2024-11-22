@@ -11,7 +11,7 @@ This extension integrates commands that you can use during your osu live streami
 
 
 ## Import the extension into Streamer.bot
-1. Download the [extension]()
+1. Download the [extension](https://github.com/dt-gamesplays/streamer.bot-extension-for-osu/releases/download/v1.0.0/osu.Twitch.Commands.sb)
 2. In Streamer.bot click the `Import` button in the top menu. Drag the extension file into the `Import String` field.
 
    ![import_extension](https://i.ibb.co/b2fQqdr/import-extension.png)
