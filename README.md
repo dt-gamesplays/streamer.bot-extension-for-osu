@@ -79,4 +79,4 @@ In case Tosu is not open when the command is started, no message will be sent. I
 | **!stats** | general statistics. | !stats "playerName" | !stats dt_gamesplays
 | **!top** | n-th best play. | !top "playerName" "n∈[1,100]"  | !top dt_gamesplays 1
 
-![Commands](https://i.ibb.co/nmhFTDS/Commands.jpg)
+![Commands](https://i.ibb.co/LggqCjB/Commands.jpg)
