@@ -12,7 +12,7 @@ To learn what the commands are for this extension go to the bottom of the [Comma
 
 
 ## Import the extension into Streamer.bot
-1. Download the [extension](https://github.com/dt-gamesplays/streamer.bot-extension-for-osu/releases/download/v1.0.0/osu.Twitch.Commands.sb)
+1. Download the [extension](https://github.com/dt-gamesplays/streamer.bot-extension-for-osu/releases) (.sb file)
 2. In Streamer.bot click the `Import` button in the top menu. Drag the extension file into the `Import String` field.
 
    ![import_extension](https://i.ibb.co/b2fQqdr/import-extension.png)
@@ -74,9 +74,8 @@ In case Tosu is not open when the command is started, no message will be sent. I
 | **!acc** | current map info based on acc. | !acc "n∈[1,100]" | !acc 98
 | **!best** | best statistics  | !best "playerName" | !best dt_gamesplays
 | **!np** | current map | !np | !np
+| **!pp** | acc to get the desired pp | !pp "n∈{pp with 90 ≤ acc ≤ 100} | !np 600
 | **!recent** | the last map played. | !recent "playerName" | !recent dt_gamesplays
 | **!skin** | current skin link. | !skin | !skin
 | **!stats** | general statistics. | !stats "playerName" | !stats dt_gamesplays
 | **!top** | n-th best play. | !top "playerName" "n∈[1,100]"  | !top dt_gamesplays 1
-
-![Commands](https://i.ibb.co/gZz8R7J/Commands.jpg)
