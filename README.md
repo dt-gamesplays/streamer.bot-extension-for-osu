@@ -61,12 +61,12 @@ To learn what the commands are for this extension go to the bottom of the [Comma
 
 
 ## Install Tosu
-> The !acc, !np, !skin commands require the use Tosu.
+> The !acc, !np, !pp, !skin commands require the use Tosu.
 1. Download [Tosu](https://github.com/tosuapp/tosu)
 
 
 ## Commands Description and Usage
-> For the !acc, !np, !skin commands to work, you must run Tsou.
+> For the !acc, !np, !pp, !skin commands to work, you must run Tsou.
 In case Tosu is not open when the command is started, no message will be sent. In case the commands should not be used correctly or with invalid data they will not send any chat message.
 
 | **Command**      | **Description**     |      **Usage**              |      **Example** |
