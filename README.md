@@ -74,7 +74,7 @@ In case Tosu is not open when the command is started, no message will be sent. I
 | **!acc** | current map info based on acc. | !acc "n∈[1,100]" | !acc 98
 | **!best** | best statistics  | !best "playerName" | !best dt_gamesplays
 | **!np** | current map | !np | !np
-| **!pp** | acc to get the desired pp | !pp "n∈{pp with 90 ≤ acc ≤ 100} | !pp 600
+| **!pp** | acc to get the desired pp | !pp "n∈{pp with 90 ≤ acc ≤ 100}" | !pp 600
 | **!recent** | the last map played. | !recent "playerName" | !recent dt_gamesplays
 | **!skin** | current skin link. | !skin | !skin
 | **!stats** | general statistics. | !stats "playerName" | !stats dt_gamesplays
