@@ -6,7 +6,7 @@ To learn what the commands are for this extension go to the bottom of the [Comma
 1. Download [Streamer.bot](https://streamer.bot/)
 2. In Streamer.bot navigates to `Platforms` > `Twitch` > `Accounts`
 
-   ![sb_configuration](https://i.ibb.co/72FdFFw/Streamer-bot-twitch-login.png)
+   ![sb_configuration](https://i.ibb.co/3pwJMY5/SB-Import.png)
 
 3. Click the `Login` button in the `Broadcaster Account` section and proceed to enter your Twitch account
 
