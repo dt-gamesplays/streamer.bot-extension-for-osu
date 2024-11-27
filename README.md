@@ -6,7 +6,7 @@ To learn what the commands are for this extension go to the bottom of the [Comma
 1. Download [Streamer.bot](https://streamer.bot/)
 2. In Streamer.bot navigates to `Platforms` > `Twitch` > `Accounts`
 
-   ![sb_configuration](https://i.ibb.co/3pwJMY5/SB-Import.png)
+   ![sb_configuration](https://i.ibb.co/72FdFFw/Streamer-bot-twitch-login.png)
 
 3. Click the `Login` button in the `Broadcaster Account` section and proceed to enter your Twitch account
 
@@ -15,7 +15,7 @@ To learn what the commands are for this extension go to the bottom of the [Comma
 1. Download the [extension](https://github.com/dt-gamesplays/streamer.bot-extension-for-osu/releases) (.sb file)
 2. In Streamer.bot click the `Import` button in the top menu. Drag the extension file into the `Import String` field.
 
-   ![import_extension](https://i.ibb.co/b2fQqdr/import-extension.png)
+   ![import_extension](https://i.ibb.co/3pwJMY5/SB-Import.png)
 
 3. Click `Import` to finalize the import.
 4. Enable commands in the Commands section: right-click on the group `Osu! Info` > `Group` > `Enable all`
