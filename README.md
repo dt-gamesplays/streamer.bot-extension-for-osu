@@ -71,11 +71,11 @@ In case Tosu is not open when the command is started, no message will be sent. I
 
 | **Command**      | **Description**     |      **Usage**              |      **Example** |
 |---|---|---|---|
-| **!acc** | current map info based on acc. | !acc "n∈[1,100]" | !acc 98
-| **!best** | best statistics  | !best "playerName" | !best dt_gamesplays
-| **!np** | current map | !np | !np
-| **!pp** | acc to get the desired pp | !pp "n∈{pp with 90 ≤ acc ≤ 100}" | !pp 600
-| **!recent** | the last map played. | !recent "playerName" | !recent dt_gamesplays
-| **!skin** | current skin link. | !skin | !skin
-| **!stats** | general statistics. | !stats "playerName" | !stats dt_gamesplays
-| **!top** | n-th best play. | !top "playerName" "n∈[1,100]"  | !top dt_gamesplays 1
+| **[!acc](https://i.ibb.co/gVNc3Bt/acc.jpg)** | current map info based on acc. | !acc "n∈[1,100]" | !acc 98
+| **[!best](https://i.ibb.co/w46Zs17/best.jpg)** | best statistics  | !best "playerName" | !best dt_gamesplays
+| **[!np](https://i.ibb.co/xmf3fWz/np.jpg)** | current map | !np | !np
+| **[!pp](https://i.ibb.co/WGN7gb6/pp.jpg)** | ~acc to get the desired pp | !pp "n∈{pp with 90 ≤ acc ≤ 100}" | !pp 600
+| **[!recent](https://i.ibb.co/BKdQGhZ/recent.jpg)** | the last map played. | !recent "playerName" | !recent dt_gamesplays
+| **[!skin](https://i.ibb.co/zFrDkgm/skin.jpg)** | current skin link. | !skin | !skin
+| **[!stats](https://i.ibb.co/L1rLKBP/stats.jpg)** | general statistics. | !stats "playerName" | !stats dt_gamesplays
+| **[!top](https://i.ibb.co/C7sTqRN/top.jpg)** | n-th best play. | !top "playerName" "n∈[1,100]"  | !top dt_gamesplays 1
